@@ -53,6 +53,14 @@ const HeaderIntro: React.FC = () => {
           />
         ))}
       </div>
+      <div className=" text-sm flex flex-col justify-center items-center gap-y-2 mx-auto  text-center">
+        <p>
+          You can also contact me on - +917796716252 / +918624940988
+        </p>
+        <p>
+        You can mail me at - {"shravansingh80001@gmail.com"} 
+        </p>
+      </div>
       <div className="scroll-down-container animate-bounce flex gap-6">
         <BsMouse className="text-[2.6rem]" />
       </div>
