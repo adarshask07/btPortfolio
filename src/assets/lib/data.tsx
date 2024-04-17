@@ -142,6 +142,20 @@ export const projectsData = [
       projectcolor: "#YourColorCode",
     },
   },
+  {
+    title: "EDA TOOL",
+    description: "In this project , i had made a tool that is used in Exploratory data analysis using plotly and pygwalker. It also provide the dashboard creation of the dataset. To design this i had used streamlit",
+    description_EN: "In this project , i had made a tool that is used in Exploratory data analysis using plotly and pygwalker. It also provide the dashboard creation of the dataset. To design this i had used streamlit",
+    githuburl: "https://github.com/Shravan1028/EDA_Tool",
+    githubicon: FiGithub,
+    deploymenticon: FiLink,
+    colors: {
+      main: "main-btn",
+      second: "secondary-btn",
+      icon: "white",
+      projectcolor: "#YourColorCode",
+    },
+  },
   // {
   //   title: "Silentmoon",
   //   description:
